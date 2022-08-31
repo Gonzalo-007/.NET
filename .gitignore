@@ -1,0 +1,8 @@
+
+
+
+bin
+logs
+WeatherForecast.cs
+/Controllers/WeatherForecastControllers.cs
+appsettings.json
