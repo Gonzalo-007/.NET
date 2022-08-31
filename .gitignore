@@ -4,5 +4,5 @@
 bin
 logs
 WeatherForecast.cs
-/Controllers/WeatherForecastControllers.cs
+Controllers/WeatherForecastControllers.cs
 appsettings.json
